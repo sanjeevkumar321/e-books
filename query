@@ -1,0 +1,1 @@
+SELECT * FROM `books_data` WHERE book_name LIKE '%e%' && branch LIKE '%GENERAL%' ORDER BY `id` ASC
